@@ -1,0 +1,116 @@
+.main-color-container-div-hfuhifhis{
+    width: 800px;
+    height: auto;
+    border-radius: 5px !important;
+    background-color: rgb(255, 255, 255) !important;
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 1px 3px 1px !important;
+    position:fixed !important;
+    right:50px !important;
+    bottom:20px !important;
+    z-index: 2147483647 !important;
+}
+.header-cont-for-color0pick{
+    position: relative;
+    min-height: 45px;
+    min-width: initial;
+    height: 45px;
+    box-sizing: border-box;
+    border-radius: 10px 10px 0px 0px;
+    background-color: rgb(255, 255, 255) !important;
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 1px 3px 1px !important;
+}
+.colorFish-title-jdfgbskjdf{
+    font-weight: bold;
+    font-size: 20px;    
+    padding: 6px 0px 8px 15px;
+    color:#000;
+}
+.header-cont-for-color0pick{
+    font-weight: bold;
+    font-size: 20px;    
+    color:#000;
+    display:flex;
+    justify-content: space-between;
+}
+.flex-for-specific-sfbh{
+    display:flex;
+    justify-content: space-between;
+    width: 80px;
+    padding: 10px;
+    cursor:pointer;
+}
+.settings-icon-hk{
+    height:15px;
+}
+.hsl-fuhik{
+    width:90px;
+    height: 25px;
+    margin: 0 8px;
+}
+.rgb-ghdf{
+    width:90px;
+    height: 25px;
+    margin: 0 8px;
+}
+.hex-fgjik{
+    width:90px;
+    height: 25px;
+    margin: 0 8px;
+}
+.flex-for-inputs-jih{
+    display:flex;
+    justify-content: space-between;
+    padding:20px;
+}
+.input-hex-div-dhgvb{
+    display:flex;
+    justify-content: space-around;
+}
+.input-rgb-div-dhgvb{
+    display:flex;
+    justify-content: space-around;
+}
+.input-hsl-div-dhgvb{
+    display:flex;
+    justify-content: space-around;
+}
+.input-button-2-gfnkf{
+    display: flex;
+}
+.flex-buttons-ghdgh{
+    display:flex;
+    justify-content: space-between;
+    margin: 20px;
+   
+}
+.flex-magnifier-dfjbd{
+    padding: 5px 60px;
+}
+.history-sdhfsdkjfg{
+    padding: 0 100px;    padding: 0 100px;
+}
+label{
+    padding: 0 10px;
+}
+.button-type-1-fg{
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 82, 82);
+    border:none;
+    cursor:pointer;
+    padding: 6px;
+}
+.button-type-2-fg{
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 82, 82);
+    border:none;
+    cursor:pointer;
+    padding: 6px 14px;
+    
+}
+.button-type-3-fg{
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 82, 82);
+    border:none;
+    cursor:pointer;
+    padding: 6px 14px;
+}

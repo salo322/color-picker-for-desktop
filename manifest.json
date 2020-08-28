@@ -1,0 +1,30 @@
+{
+    "name": "color picker",
+    "version": "1.0",
+    "icons":{
+        "48":"./img/icon.png"
+    },
+    "description": "desktop color picker",
+    "manifest_version": 2,
+    "browser_action": {
+      "default_icon": {
+        "48": "./img/icon.png"
+    }
+    },
+    "permissions": [
+       "storage",
+       "<all_urls>"
+    ],
+    "content_scripts": [
+        {
+          "matches": ["<all_urls>"],
+          "css": ["./css/style.css"],
+          "js": ["./js/jquery.js","./js/content.js"]
+        }
+      ],
+    "background": {
+      "scripts": ["./js/jquery.js", "./js/background.js"],
+      "persistent": false
+ 
+    }
+  }
