@@ -20,97 +20,96 @@
     box-shadow: rgba(0, 0, 0, 0.5) 0px 1px 3px 1px !important;
 }
 .colorFish-title-jdfgbskjdf{
-    font-weight: bold;
-    font-size: 20px;    
-    padding: 6px 0px 8px 15px;
-    color:#000;
+    font-weight: bold !important;
+    font-size: 20px !important;    
+    padding: 6px 0px 8px 15px !important;
+    color:#000 !important;
 }
 .header-cont-for-color0pick{
-    font-weight: bold;
-    font-size: 20px;    
-    color:#000;
-    display:flex;
-    justify-content: space-between;
+    font-weight: bold !important;
+    font-size: 20px !important;    
+    color:#000 !important;
+    display:flex !important;
+    justify-content: space-between !important;
 }
 .flex-for-specific-sfbh{
-    display:flex;
-    justify-content: space-between;
-    width: 80px;
-    padding: 10px;
-    cursor:pointer;
+    display:flex !important;
+    justify-content: space-between !important;
+    width: 80px !important;
+    padding: 10px !important;
+    cursor:pointer !important;
 }
 .settings-icon-hk{
-    height:15px;
+    height:15px !important;
 }
 .hsl-fuhik{
     width:90px;
-    height: 25px;
-    margin: 0 8px;
+    height: 25px !important;
+    margin: 0 8px !important;
 }
 .rgb-ghdf{
-    width:90px;
-    height: 25px;
-    margin: 0 8px;
+    width:90px !important;
+    height: 25px !important;
+    margin: 0 8px !important;
 }
 .hex-fgjik{
-    width:90px;
-    height: 25px;
-    margin: 0 8px;
+    width:90px !important;
+    height: 25px !important;
+    margin: 0 8px !important;
 }
 .flex-for-inputs-jih{
-    display:flex;
-    justify-content: space-between;
-    padding:20px;
+    display:flex !important;
+    justify-content: space-between !important;
+    padding:20px !important;
 }
 .input-hex-div-dhgvb{
-    display:flex;
-    justify-content: space-around;
+    display:flex !important;
+    justify-content: space-around !important;
 }
 .input-rgb-div-dhgvb{
-    display:flex;
-    justify-content: space-around;
+    display:flex !important;
+    justify-content: space-around !important;
 }
 .input-hsl-div-dhgvb{
-    display:flex;
-    justify-content: space-around;
+    display:flex !important;
+    justify-content: space-around !important;
 }
 .input-button-2-gfnkf{
-    display: flex;
+    display: flex !important;
 }
 .flex-buttons-ghdgh{
-    display:flex;
-    justify-content: space-between;
-    margin: 20px;
+    display:flex !important;
+    justify-content: space-between !important;
+    margin: 20px !important;
    
 }
 .flex-magnifier-dfjbd{
-    padding: 5px 60px;
+    padding: 5px 60px !important;
 }
 .history-sdhfsdkjfg{
-    padding: 0 100px;    padding: 0 100px;
+    padding: 0 100px !important; 
 }
 label{
-    padding: 0 10px;
+    padding: 0 10px !important;
 }
 .button-type-1-fg{
-    color: rgb(255, 255, 255);
-    background-color: rgb(255, 82, 82);
-    border:none;
-    cursor:pointer;
-    padding: 6px;
+    color: rgb(255, 255, 255) !important;
+    background-color: rgb(255, 82, 82) !important;
+    border:none !important;
+    cursor:pointer !important;
+    padding: 6px !important;
 }
 .button-type-2-fg{
-    color: rgb(255, 255, 255);
-    background-color: rgb(255, 82, 82);
-    border:none;
-    cursor:pointer;
-    padding: 6px 14px;
+    color: rgb(255, 255, 255) !important;
+    background-color: rgb(255, 82, 82) !important;
+    border:none !important;
+    cursor:pointer !important;
+    padding: 6px 14px !important;
     
 }
 .button-type-3-fg{
-    color: rgb(255, 255, 255);
-    background-color: rgb(255, 82, 82);
-    border:none;
-    cursor:pointer;
-    padding: 6px 14px;
+    color: rgb(255, 255, 255) !important;
+    background-color: rgb(255, 82, 82) !important;
+    cursor:pointer !important;
+    padding: 6px 14px !important;
 }
