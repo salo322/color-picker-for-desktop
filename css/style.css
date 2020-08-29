@@ -6,23 +6,14 @@
     box-shadow: rgba(0, 0, 0, 0.5) 0px 1px 3px 1px !important;
     position:fixed !important;
     right:50px !important;
-    bottom:20px !important;
+    bottom:10px !important;
     z-index: 2147483647 !important;
 }
-.header-cont-for-color0pick{
-    position: relative;
-    min-height: 45px;
-    min-width: initial;
-    height: 45px;
-    box-sizing: border-box;
-    border-radius: 10px 10px 0px 0px;
-    background-color: rgb(255, 255, 255) !important;
-    box-shadow: rgba(0, 0, 0, 0.5) 0px 1px 3px 1px !important;
-}
+
 .colorFish-title-jdfgbskjdf{
     font-weight: bold !important;
     font-size: 20px !important;    
-    padding: 6px 0px 8px 15px !important;
+    padding:14px!important;
     color:#000 !important;
 }
 .header-cont-for-color0pick{
@@ -31,6 +22,9 @@
     color:#000 !important;
     display:flex !important;
     justify-content: space-between !important;
+    height: 45px; 
+    border-radius: 5px 5px 0px 0px;
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 1px 3px 1px !important;
 }
 .flex-for-specific-sfbh{
     display:flex !important;
@@ -61,6 +55,7 @@
     display:flex !important;
     justify-content: space-between !important;
     padding:20px !important;
+    width: 780px;
 }
 .input-hex-div-dhgvb{
     display:flex !important;
@@ -84,6 +79,7 @@
    
 }
 .flex-magnifier-dfjbd{
+    display: flex;
     padding: 5px 60px !important;
 }
 .history-sdhfsdkjfg{
@@ -112,4 +108,50 @@ label{
     background-color: rgb(255, 82, 82) !important;
     cursor:pointer !important;
     padding: 6px 14px !important;
+}
+#cs{ 
+    display:none;
+  }
+.result-hgasduygajdguai{
+    width: 550px;
+    display: flex;
+    justify-content: space-between;
+}
+.border-sp-1{
+    background:#eeeeee;
+    border:1px solid #eff1ec;
+    width:60px;
+    
+}
+.border-sp-2{
+    background:#eeeeee;
+    border:1px solid #eff1ec;
+    width: 80px;
+    
+}
+.span1-gh{
+    width: 90px;
+    display:flex;
+    justify-content: space-between;
+}
+.span2-gh{
+    width: 150px;
+    display: flex;
+    justify-content: space-between;
+    width: 110px;
+}
+.span3-gh{
+    width: 140px;
+    display: flex;
+    justify-content: space-between;
+}
+.border-sp-3{
+    background:#eeeeee;
+    border:1px solid #eff1ec;
+    width: 110px;
+}
+
+.close-window-dfhlk{
+    font-size: 24px;
+    padding: 3px;
 }

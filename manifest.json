@@ -12,9 +12,17 @@
     }
     },
     "permissions": [
-       "storage",
-       "<all_urls>"
-    ],
+      "activeTab",
+      "tabs" ,
+      "storage",
+      "unlimitedStorage",
+      "browsingData",
+      "notifications",
+      "http://*/*",
+      "https://*/*",
+      "file://*/*",
+      "<all_urls>"
+  ],
     "content_scripts": [
         {
           "matches": ["<all_urls>"],
