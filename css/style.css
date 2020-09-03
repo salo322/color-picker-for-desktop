@@ -25,6 +25,17 @@
     height: 45px; 
     border-radius: 5px 5px 0px 0px;
     box-shadow: rgba(0, 0, 0, 0.5) 0px 1px 3px 1px !important;
+    
+}
+.changedclassforheader{
+    font-weight: bold !important;
+    font-size: 20px !important;    
+    color:#000 !important;
+    display:flex !important;
+    justify-content: space-between !important;
+    height: 45px; 
+    border-radius: 5px 5px 0px 0px;
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 1px 3px 1px !important;
 }
 .flex-for-specific-sfbh{
     display:flex !important;
@@ -80,10 +91,10 @@
 }
 .flex-magnifier-dfjbd{
     display: flex;
-    padding: 5px 60px !important;
+    padding: 20px 60px !important;
 }
 .history-sdhfsdkjfg{
-    padding: 0 100px !important; 
+    padding: 0 60px !important; 
 }
 label{
     padding: 0 10px !important;
@@ -108,6 +119,7 @@ label{
     background-color: rgb(255, 82, 82) !important;
     cursor:pointer !important;
     padding: 6px 14px !important;
+    border:none !important;
 }
 #cs{ 
     display:none;
@@ -154,4 +166,54 @@ label{
 .close-window-dfhlk{
     font-size: 24px;
     padding: 3px;
+}
+.img-magnifier-container {
+    position:relative;
+  }
+  
+.img-magnifier-glass {
+    position: absolute;
+    border: 3px solid #000;
+    border-radius: 50%;
+    cursor: none;
+    /*Set the size of the magnifier glass:*/
+    width: 100px;
+    height: 100px;
+  }
+#zoom{
+    border:1px black solid;
+    box-shadow: 5px 5px 10px #1e1e1e;
+    border-radius: 50%;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+ }
+.history-square-fggdf{
+    height:30px;
+    width:30px;
+    border: 1px solid #000;
+}
+.main-history-container-fjh{
+    display: flex;
+}
+.fdsf{
+    display: grid;
+    grid-template-columns: 20px 20px 20px 20px 20px 20px 20px 20px 20px 20px 20px 20px 20px 20px;
+    grid-template-rows: 1fr 1fr;
+    grid-gap:5px;
+}
+.thumbnails-hfgv img{
+    cursor: crosshair;;
+}
+.btnforcolor{
+    height: 20px;
+    width: 20px;
+    border: none;
+  
+}
+.flex-history-div-fdg{
+    display: flex;
+}
+.image-bin-dgbu{
+    padding:10px 20px;
+}
+.imgrecicl{
+    height:20px;
 }
